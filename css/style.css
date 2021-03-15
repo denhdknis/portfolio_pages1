@@ -93,7 +93,6 @@ img{
   box-sizing: border-box;
   width: 100%;
   transition: .3s;
-  
 }
 .header-inner{
   display: flex;
@@ -167,7 +166,7 @@ img{
 }
 
 .slick-arrow{
-  display: none !important; 
+  display: none !important;
 }
 /* ---------------------------- */
 /* concept
@@ -242,7 +241,7 @@ img{
   font-size: 4rem;
   font-weight: bold;
   font-style: italic;
-  transition: .3s;
+  transition: .6s;
 }
 .service-item a:hover{
   background-color: rgba(40,47,53,.7);
@@ -362,7 +361,7 @@ img{
   .bar_mid{
     margin-bottom: 8px;
   }
-  
+
   /* ハンバーガーメニューが開いたとき */
   .burger-btn.cross .bar_top{
     transform: rotate(45deg) translate(8px,8px);

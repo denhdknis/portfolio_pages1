@@ -69,14 +69,14 @@ html{
  .burger-btn{
    display: none;
  }
- 
+
  /* ---------------------------- */
  /* page-title
  /* ---------------------------- */
  .page-title-wrapper{
    height: 453px;
    position: relative;
-   background-image: url(../img/contact-page-bgi@2x.jpg);  
+   background-image: url(../img/contact-page-bgi@2x.jpg);
  }
 .page-title{
   font-size: 6rem;
@@ -180,9 +180,7 @@ html{
     transition: .3s;
     cursor: pointer;
   }
- 
- 
- 
+
  /* ---------------------------- */
  /* footer
  /* ---------------------------- */
@@ -198,9 +196,7 @@ html{
    /* ---------------------------- */
    /* base_sp
    /* ---------------------------- */
-   
-  
- 
+
    /* ---------------------------- */
    /* header_sp
    /* ---------------------------- */
@@ -228,7 +224,7 @@ html{
    .nav-item:last-of-type{
      margin-bottom: 0;
    }
- 
+
    .burger-btn{
      display: block;
      position: absolute;
